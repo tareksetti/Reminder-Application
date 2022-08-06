@@ -1,0 +1,4 @@
+1 -action Types
+2 - action creators
+3- reducers
+4-jsx
